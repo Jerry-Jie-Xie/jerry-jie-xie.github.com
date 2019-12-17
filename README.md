@@ -1,8 +1,3 @@
 # jerry-jie-xie.github.com
-Give frogs a bright future
-
-
-
-
-
+Use signal processing and machine learning methods for solving real world problems
 
